@@ -1,17 +1,25 @@
 ##1.EventStorming : Model Design Level
-![image](https://github.com/younghuz69/FoodDelivery/assets/132860007/24debc8d-6452-412b-aed1-a39c6748b000)
+![image](https://github.com/younghuz69/FoodDelivery/assets/132860007/ac08a9f2-a55a-498c-9b43-33fe7323499a)
+
 
 
 
 ##2.Saga(Pub / Sub)
+![image](https://github.com/younghuz69/FoodDelivery/assets/132860007/ff5960c5-2d0c-4adf-b917-63bf6a757c7b)
 
 
 
 ##3.CQRS
+![image](https://github.com/younghuz69/FoodDelivery/assets/132860007/073e4e34-bc24-43ab-a1bf-efd6d1a1b83d)
+![image](https://github.com/younghuz69/FoodDelivery/assets/132860007/326f8712-e9b7-4c7c-b4c9-51100ace729a)
+![image](https://github.com/younghuz69/FoodDelivery/assets/132860007/34ec11ef-36fc-4fdb-ab37-0f2e136a89d4)
 
 
 
 ##4.Compensation / Correlation
+![image](https://github.com/younghuz69/FoodDelivery/assets/132860007/43f645fa-1798-4b1c-abd4-e232573dff33)
+![image](https://github.com/younghuz69/FoodDelivery/assets/132860007/2b2ba19e-b132-4ec9-b61b-d0ef3b6459b6)
+![image](https://github.com/younghuz69/FoodDelivery/assets/132860007/00768215-d080-4d29-9b89-8af7a476ef0c)
 
 
 
