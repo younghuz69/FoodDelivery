@@ -75,11 +75,16 @@ public class FoodCooking {
     }
 
     public static void copyOrderInfo(OrderPlaced orderPlaced) {
-        /** Example 1:  new item 
+        /** Example 1:  new item  */
         FoodCooking foodCooking = new FoodCooking();
+        foodCooking.setFoodId(orderPlaced.getFoodId());
+        foodCooking.setOrderId(orderPlaced.getId());
+        foodCooking.setOptions(orderPlaced.getOptions());
+        foodCooking.setStatus("주문됨");
+        foodCooking.setStoreId(orderPlaced.getStoreId());
         repository().save(foodCooking);
 
-        */
+        
 
         /** Example 2:  finding and process
         
