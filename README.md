@@ -1,3 +1,20 @@
+##1.EventStorming : Model Design Level
+![image](https://github.com/younghuz69/FoodDelivery/assets/132860007/24debc8d-6452-412b-aed1-a39c6748b000)
+
+
+
+##2.Saga(Pub / Sub)
+
+
+
+##3.CQRS
+
+
+
+##4.Compensation / Correlation
+
+
+
 # 
 
 ## Model
